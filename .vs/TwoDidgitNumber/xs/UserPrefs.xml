@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8A76C81A-45A6-4E6E-B6C0-DDEE9853E851}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwoDidgitNumber/Program.cs">
+    <Files>
+      <File FileName="TwoDidgitNumber/Program.cs" Line="4" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TwoDidgitNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
