@@ -36,8 +36,8 @@ namespace TwoDidgitNumber
                 Console.WriteLine($"\nSum of numbers {numberDozens}  and {numberUnit} is: {numberDozens + numberUnit}");
                 Console.WriteLine($"\nMultiplication of numbers {numberDozens}  and {numberUnit} is: {numberDozens * numberUnit}");
                 
-                string str1 = Convert.ToString(numberDozens);
-                string str2 = Convert.ToString(numberUnit);
+                string str1 = numberDozens.ToString();
+                string str2 = numberUnit.ToString();
                 Console.WriteLine("");
                 Console.WriteLine(number + str1 + str2);
             }
